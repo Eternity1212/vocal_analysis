@@ -1,0 +1,2 @@
+{"sample_id": "demo_0001", "audio_path": "data\\raw\\audio\\demo_0001.wav", "mfcc_path": "data\\processed\\mfcc\\demo_0001_MFCC.xlsx", "voice_part": "sopran", "model_score": [4, 2, 1, 2, 4, 3, 2, 2, 1, 4], "teacher_score": [4, 2, 2, 3, 3, 4, 2, 3, 2, 3], "teacher_preferred_flag": 1}
+{"sample_id": "demo_0007", "audio_path": "data\\raw\\audio\\demo_0007.wav", "mfcc_path": "data\\processed\\mfcc\\demo_0007_MFCC.xlsx", "voice_part": "sopran", "model_score": [3, 3, 3, 4, 4, 3, 4, 1, 3, 4], "teacher_score": [5, 4, 4, 4, 4, 4, 3, 2, 2, 5], "teacher_preferred_flag": 1}
