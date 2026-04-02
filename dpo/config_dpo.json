@@ -44,4 +44,7 @@
   "init_channels": 128,
   "_comment_config_str": "字符串。非线性模块配置字符串。除非你明确要改模型结构，否则保持为 batchnorm-relu。",
   "config_str": "batchnorm-relu"
+
+
+  
 }

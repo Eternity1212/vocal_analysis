@@ -15,7 +15,7 @@ data_dir = r"/home/zx/audio/fusai_data/Sopran/zz"  # 数据集路径
 '''
 
 
-data_dir = "/home/zx/Valentin_workplace/DPO_data/Mezzo/test" 
+data_dir = "/home/zx/Valentin_workplace/DPO_data/Sopran/test" 
 
 
 val_batch_size = 16  # 验证集批量大小
@@ -23,18 +23,17 @@ num_workers = 4  # 多线程数据加载
 num_classes = 50  # 分类数量
 
 
-#pretrained_weights = r"/home/zx/AST1/best_models_for_grid_Sopran+Mezzo/1e-5+16+1e-4/2026-03-03_10-05-07/best_model.pth"  # 预训练权重路径
 
 # pretrained_weights = "/home/zx/git_workplace/DIVA-AI-Multimodal-Reinforcement-Learning/OJ_System/models/best_models_for_grid/5e-5+16+1e-4/Sopran/best_model.pth"  # 预训练权重路径
 
-pretrained_weights = "/home/zx/codexProject/vocal_analysis/policy_model/Mezzo/policy_model.pth"
+pretrained_weights = "/home/zx/codexProject/vocal_analysis/policy_model/policy_model.pth"
 '''
 output_dir = r"/home/zx/Valentin_workplace/对比结果"  # 保存输出分数的目录
 '''
 
 #output_dir = r"/home/zx/Valentin_workplace/DPO_data/Sopran/Rejected"
 
-output_dir = r"/home/zx/codexProject/vocal_analysis/dpo/outputs/Mezzo/dpo"
+output_dir = r"/home/zx/codexProject/vocal_analysis/dpo/outputs/Sopran/sft"
 
 
 
